@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2> Hi, I'm Thibo Verbeerst! 👋  </h2>
+<p><em>Software Enginner at <a href="https://www.howest.be">Howest</em></p>
 
-<!--
-**thiboverbeerst/thiboverbeerst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: thiboverbeerst](https://img.shields.io/twitter/follow/thiboverbeerst?style=social)](https://twitter.com/thiboverbeerst)
+[![GitHub thiboverbeerst](https://img.shields.io/github/followers/thiboverbeerst?label=follow&style=social)](https://github.com/thiboverbeerst)
+![Mail address](https://img.shields.io/badge/Mail_-thibo%40nerdclub.io-red)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### A little more about me...  
+
+```javascript
+const thibo  = {
+  pronouns: "he" | "him",
+  code: ["Javascript", "HTML", "CSS", "C/C++", "Python", "Java"],
+  frameworks: ["Laravel", "VueJS", "NodeJS", "Flask"],
+  dbms: ["MySQL", "MS SQL", "MongoDB"]
+  tools: ["Docker", "NGINX", "Apache"],
+  architecture: ["microservices", "design system pattern"]
+}
+```
+---
