@@ -14,7 +14,7 @@ const thibo  = {
   pronouns: "he" | "him",
   code: ["Javascript", "HTML", "CSS", "C/C++", "Python", "Java"],
   frameworks: ["Laravel", "VueJS", "NodeJS", "Flask"],
-  dbms: ["MySQL", "MS SQL", "MongoDB"]
+  dbms: ["MySQL", "MS SQL", "MongoDB"],
   tools: ["Docker", "NGINX", "Apache"],
   architecture: ["microservices", "design system pattern"]
 }
