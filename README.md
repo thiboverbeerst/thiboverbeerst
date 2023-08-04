@@ -15,7 +15,7 @@ const thibo  = {
   code: ["Javascript", "HTML", "CSS", "C/C++", "Python", "Java", "Kotlin"],
   frameworks: ["Laravel", "VueJS", "NodeJS", "Flask", ".NET"],
   dbms: ["MySQL", "MS SQL", "MongoDB"],
-  tools: ["Docker", "NGINX", "Apache"],
+  tools: ["Docker", "NGINX", "Apache", "Power Automate", "PowerApps", "PowerBi"],
   architecture: ["microservices", "design system pattern", "mvc"],
   OS: ["Windows", "Linux"],
   vsc: ["Git"]
