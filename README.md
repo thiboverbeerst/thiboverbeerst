@@ -18,7 +18,8 @@ const thibo  = {
   tools: ["Docker", "NGINX", "Apache", "Power Automate", "PowerApps", "PowerBi"],
   architecture: ["microservices", "design system pattern", "mvc"],
   OS: ["Windows", "Linux"],
-  vsc: ["Git"]
+  vsc: ["Git"],
+  design: ["Figma", "Flowchart"]
 }
 ```
 ---
