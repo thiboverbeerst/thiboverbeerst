@@ -7,7 +7,7 @@
 
 
 
-### A little more about me...  
+### A little about me...  
 
 #### Software Engineering
 🕛 Experience: 6 years  
@@ -17,7 +17,7 @@ const thibo  = {
   pronouns: "he" | "him",
   code: ["Javascript", "HTML", "CSS", "C/C++", "Python", "Java", "Kotlin"],
   frameworks: ["Laravel", "VueJS", "NodeJS", "Flask", ".NET"],
-  dbms: ["MySQL", "MS SQL", "MongoDB"],
+  database: ["MySQL", "MS SQL", "MongoDB"],
   tools: ["Docker", "NGINX", "Apache", "Power Automate", "PowerApps", "PowerBi"],
   architecture: ["microservices", "design system pattern", "mvc"],
   OS: ["Windows", "Linux"],
@@ -43,6 +43,6 @@ const thibo  = {
 ---
 
 ### More Thibology?  
-Visit my personal website:   
-
-[![Static Badge](https://img.shields.io/badge/www.thiboverbeerst.com-white)](https://www.thiboverbeerst.com)
+[![Static Badge](https://img.shields.io/badge/Personal_website-www.thiboverbeerst.com-white)](https://www.thiboverbeerst.com)
+°
+[![Static Badge](https://img.shields.io/badge/Project_Hub-www.nerdclub.io-white)](https://www.nerdclub.io)
