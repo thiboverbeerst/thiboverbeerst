@@ -20,3 +20,7 @@ const thibo  = {
 }
 ```
 ---
+
+### More Thibology?  
+Visit my personal website:   
+[![Static Badge](https://img.shields.io/badge/www.thiboverbeerst.com-white)](https://www.thiboverbeerst.com)
