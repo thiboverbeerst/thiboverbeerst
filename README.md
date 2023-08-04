@@ -12,11 +12,13 @@
 ```javascript
 const thibo  = {
   pronouns: "he" | "him",
-  code: ["Javascript", "HTML", "CSS", "C/C++", "Python", "Java"],
-  frameworks: ["Laravel", "VueJS", "NodeJS", "Flask"],
+  code: ["Javascript", "HTML", "CSS", "C/C++", "Python", "Java", "Kotlin"],
+  frameworks: ["Laravel", "VueJS", "NodeJS", "Flask", ".NET"],
   dbms: ["MySQL", "MS SQL", "MongoDB"],
   tools: ["Docker", "NGINX", "Apache"],
-  architecture: ["microservices", "design system pattern"]
+  architecture: ["microservices", "design system pattern", "mvc"],
+  OS: ["Windows", "Linux"],
+  vsc: ["Git"]
 }
 ```
 ---
