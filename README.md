@@ -1,5 +1,5 @@
 <h2> Hi, I'm Thibo Verbeerst! 👋  </h2>
-<p><em>Software Enginner at <a href="https://www.howest.be">Howest</em></p>
+<p><em>Studying software engineering at <a href="https://www.howest.be">Howest</em></p>
 
 [![Twitter: thiboverbeerst](https://img.shields.io/twitter/follow/thiboverbeerst?style=social)](https://twitter.com/thiboverbeerst)
 [![GitHub thiboverbeerst](https://img.shields.io/github/followers/thiboverbeerst?label=follow&style=social)](https://github.com/thiboverbeerst)
