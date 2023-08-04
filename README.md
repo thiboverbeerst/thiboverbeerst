@@ -9,6 +9,9 @@
 
 ### A little more about me...  
 
+#### Software Engineering
+🕛 Experience: 6 years  
+📍[*Prizma*](https://www.prizma.be), [*Howest*](https://www.howest.be), [*Home*]()   
 ```javascript
 const thibo  = {
   pronouns: "he" | "him",
@@ -22,8 +25,24 @@ const thibo  = {
   design: ["Figma", "Flowchart"]
 }
 ```
+
+#### Electrical Engineering
+🕛 Experience: 4 years  
+📍[*Prizma*](https://www.prizma.be), [*Home*]()   
+```text
+⚡Power engineering: Rectifier, 1f/3f Motor, Inverter, ...  
+⚡Control engineering: Automation, Robotics, ...  
+⚡Electronic engineering: IoT, Circuit design, PCB layout, I2C-bus, CAN-bus, ...  
+⚡Microelectronics: Microprocessors, ICs, ...  
+```
+
+#### Architectural Design  
+🕛 Experience: 4 years  
+📍[*SKAT*](https://www.academietielt.be/skat)  
+
 ---
 
 ### More Thibology?  
 Visit my personal website:   
+
 [![Static Badge](https://img.shields.io/badge/www.thiboverbeerst.com-white)](https://www.thiboverbeerst.com)
