@@ -3,8 +3,6 @@
 
 [![Twitter: thiboverbeerst](https://img.shields.io/twitter/follow/thiboverbeerst?style=social)](https://twitter.com/thiboverbeerst)
 [![GitHub thiboverbeerst](https://img.shields.io/github/followers/thiboverbeerst?label=follow&style=social)](https://github.com/thiboverbeerst)
-![Mail address](https://img.shields.io/badge/Mail_-thibo%40nerdclub.io-red)
-
 
 
 ### A little about me...  
