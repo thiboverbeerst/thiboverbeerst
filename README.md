@@ -13,11 +13,11 @@
 ```javascript
 const thibo  = {
   pronouns: "he" | "him",
-  code: ["Javascript", "HTML", "CSS", "C/C++", "Python", "Java", "Kotlin"],
+  code: ["Javascript", "HTML", "CSS", "C/C++", "Python", "Java", "C#", "Kotlin"],
   frameworks: ["Laravel", "VueJS", "NodeJS", "Flask", ".NET"],
   database: ["MySQL", "MS SQL", "MongoDB"],
   tools: ["Docker", "NGINX", "Apache", "Power Automate", "PowerApps", "PowerBi"],
-  architecture: ["microservices", "design system pattern", "mvc"],
+  architecture: ["microservices", "design system patterns", "mvc"],
   OS: ["Windows", "Linux"],
   vsc: ["Git"],
   design: ["Figma", "Flowchart"]
