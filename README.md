@@ -42,5 +42,3 @@ const thibo  = {
 
 ### More Thibology?  
 [![Static Badge](https://img.shields.io/badge/Personal_website-www.thiboverbeerst.com-white)](https://www.thiboverbeerst.com)
-°
-[![Static Badge](https://img.shields.io/badge/Project_Hub-www.nerdclub.io-white)](https://www.nerdclub.io)
